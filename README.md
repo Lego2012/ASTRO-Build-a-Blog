@@ -16,3 +16,5 @@ Checkpoints:
 Extension:
 You can also see a guided walkthrough in Astro Docs to [convert this project to use content collections](https://docs.astro.build/en/guides/content-collections/#migrating-from-file-based-routing).
 - [Completed project branch using Content Collections](https://github.com/withastro/blog-tutorial-demo/tree/content-collections).
+
+## [Highlight Nav Link for Current Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
