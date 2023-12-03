@@ -18,3 +18,5 @@ You can also see a guided walkthrough in Astro Docs to [convert this project to 
 - [Completed project branch using Content Collections](https://github.com/withastro/blog-tutorial-demo/tree/content-collections).
 
 ## [Highlight Nav Link for Current Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
+
+## [Integrate Prettier with Astro and Tailwind CSS](https://straffesites.com/en/blog/integrate-prettier-astro-tailwindcss)
